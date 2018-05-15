@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HerokuAppV1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# heroku-app-v4
+>>>>>>> d23bde225daf9e2119a89a1fe52c500457966247
